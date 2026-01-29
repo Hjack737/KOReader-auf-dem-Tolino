@@ -2,9 +2,9 @@
 <img width="2340" height="929" alt="KOReaderxTolino" src="https://github.com/user-attachments/assets/3f49c77e-0e19-4ee3-95fd-dadd44abb1f5" /> </br>
 ## Was benötigt wird
 - [ ]  Ein <ins> Android</ins> Basiertes Tolino (ab Tolino Vision 6 oder Epos 3 nicht mehr auf diese Weise möglich) </br>
-- [ ]  Die [KOReader](https://github.com/koreader/koreader) .apk Datei </br>
-- [ ]  Ein Launcher (Ich nutze den [Simple Launcher](https://github.com/SimpleMobileTools/Simple-Launcher)) </br>
-- [ ]  [Visual Soft Keys](https://f-droid.org/de/packages/tw.com.daxia.virtualsoftkeys/) für die Navigation </br>
+- [ ]  Die [KOReader](https://github.com/koreader/koreader/releases/latest/download/koreader-android-arm-v2025.10.apk) .apk Datei </br>
+- [ ]  Ein Launcher (Ich nu[tze den [Simple Launcher](https://github.com/SimpleMobileTools/Simple-Launcher/releases/latest/download/launcher-fdroid-release.apk)) </br>
+- [ ]  [Visual Soft Keys](https://f-droid.org/de/packages/tw.com.daxia.virtualsoftkeys/](https://f-droid.org/repo/tw.com.daxia.virtualsoftkeys_10.apk)) für die Navigation </br>
 - [ ]  Und kurzen zugriff auf einen PC/Laptop (um auf das Datei System des Tolinos zu zugreifen) </br>
 
 ### Vorteile
